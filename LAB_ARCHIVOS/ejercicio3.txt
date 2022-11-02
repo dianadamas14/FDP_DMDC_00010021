@@ -1,0 +1,5 @@
+Numeros de vocales a: 1 
+Numeros de vocales e: 1 
+Numeros de vocales i: 2 
+Numeros de vocales o: 2 
+Numeros de vocales u: 3 
